@@ -1,0 +1,10 @@
+arrays: []
+constants:
+  a: 5
+  b: 10
+  name: Python
+results:
+- 15
+- 5
+- 6
+- 80

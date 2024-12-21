@@ -1,0 +1,9 @@
+arrays: []
+constants:
+  greeting: Hello
+  name: Alice
+results:
+- 5
+- 72
+- Hello Alice
+- 10

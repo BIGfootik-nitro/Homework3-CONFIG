@@ -1,0 +1,10 @@
+arrays: []
+constants:
+  company_name: TechCorp
+  employees: 50
+  expenses: 30000
+  revenue: 50000
+results:
+- 20000
+- 1000.0
+- 8
